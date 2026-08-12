@@ -21,8 +21,7 @@
 - Backend Development
 
 ## Coding Profiles
-- LeetCode
-- Codeforces
+- LeetCode - https://leetcode.com/u/Nagendra8920
 
 ## Projects
 Coming soon...
